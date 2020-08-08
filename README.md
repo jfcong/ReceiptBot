@@ -8,7 +8,7 @@ CiCi Huang cicihuang@berkeley.edu
 Victor Cheng victorcheng16@berkeley.edu
 
 ### Demo
-![](receiptbot.gif)
+<img src="receiptbot.gif" width="350" height="600"/>
 
 ### Files in details:
 1. UploadViewController
